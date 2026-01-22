@@ -6,13 +6,6 @@ import { ExternalLink, ArrowRight } from "lucide-react";
 
 const projects = [
     {
-        title: "Agro Green Venture",
-        url: "https://agrogreenventure.in/",
-        image: "/img/aagrogreenventure.png",
-        description: "Agricultural Innovation Platform",
-        color: "from-green-50 to-emerald-100"
-    },
-    {
         title: "Power Technos",
         url: "https://www.powertechnos.com/",
         image: "/img/powertechnos.png",
@@ -53,6 +46,13 @@ const projects = [
         image: "/img/Revive.png",
         description: "Hospital Management Software",
         color: "from-cyan-50 to-sky-100"
+    },
+    {
+        title: "Agro Green Venture",
+        url: "https://agrogreenventure.in/",
+        image: "/img/aagrogreenventure.png",
+        description: "Agricultural Innovation Platform",
+        color: "from-green-50 to-emerald-100"
     }
 ];
 
